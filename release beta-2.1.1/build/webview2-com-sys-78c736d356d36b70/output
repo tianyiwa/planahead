@@ -1,0 +1,2 @@
+cargo:rustc-link-search=native=C:\Users\tiany\OneDrive\Desktop\StudySync Scheduling Agent\study-sync-planner\src-tauri\target\release\build\webview2-com-sys-78c736d356d36b70\out\x64
+cargo:rustc-link-lib=advapi32
