@@ -1,0 +1,11 @@
+C:\Users\tiany\OneDrive\Desktop\StudySync Scheduling Agent\study-sync-planner\src-tauri\target\release\deps\fern-090aea71aa08448a.d: C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fern-0.7.1\src\lib.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fern-0.7.1\src\builders.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fern-0.7.1\src\errors.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fern-0.7.1\src\log_impl.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fern-0.7.1\src\meta.rs
+
+C:\Users\tiany\OneDrive\Desktop\StudySync Scheduling Agent\study-sync-planner\src-tauri\target\release\deps\libfern-090aea71aa08448a.rlib: C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fern-0.7.1\src\lib.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fern-0.7.1\src\builders.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fern-0.7.1\src\errors.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fern-0.7.1\src\log_impl.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fern-0.7.1\src\meta.rs
+
+C:\Users\tiany\OneDrive\Desktop\StudySync Scheduling Agent\study-sync-planner\src-tauri\target\release\deps\libfern-090aea71aa08448a.rmeta: C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fern-0.7.1\src\lib.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fern-0.7.1\src\builders.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fern-0.7.1\src\errors.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fern-0.7.1\src\log_impl.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fern-0.7.1\src\meta.rs
+
+C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fern-0.7.1\src\lib.rs:
+C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fern-0.7.1\src\builders.rs:
+C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fern-0.7.1\src\errors.rs:
+C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fern-0.7.1\src\log_impl.rs:
+C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fern-0.7.1\src\meta.rs:
