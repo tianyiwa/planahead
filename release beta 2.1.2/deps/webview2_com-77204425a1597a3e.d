@@ -1,0 +1,10 @@
+C:\Users\tiany\OneDrive\Desktop\StudySync Scheduling Agent\study-sync-planner\src-tauri\target\release\deps\webview2_com-77204425a1597a3e.d: C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.0\src\lib.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.0\src\callback.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.0\src\options.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.0\src\pwstr.rs
+
+C:\Users\tiany\OneDrive\Desktop\StudySync Scheduling Agent\study-sync-planner\src-tauri\target\release\deps\libwebview2_com-77204425a1597a3e.rlib: C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.0\src\lib.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.0\src\callback.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.0\src\options.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.0\src\pwstr.rs
+
+C:\Users\tiany\OneDrive\Desktop\StudySync Scheduling Agent\study-sync-planner\src-tauri\target\release\deps\libwebview2_com-77204425a1597a3e.rmeta: C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.0\src\lib.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.0\src\callback.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.0\src\options.rs C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.0\src\pwstr.rs
+
+C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.0\src\lib.rs:
+C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.0\src\callback.rs:
+C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.0\src\options.rs:
+C:\Users\tiany\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\webview2-com-0.38.0\src\pwstr.rs:
